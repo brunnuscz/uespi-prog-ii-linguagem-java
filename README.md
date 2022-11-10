@@ -1,3 +1,4 @@
 <h1 align="center">
-    Exercícios (Classes e Objetos) Feito em Java
+    Exercícios Programação Orientada a Objetos<br>
+    Linguagem Java
 </h1>
